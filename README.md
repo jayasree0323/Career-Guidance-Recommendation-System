@@ -69,7 +69,7 @@ The system takes a student's education, specialization, skills, and interests as
 ## ⚠️ Note
 The recommendation is intended as a career guidance tool and should not be considered a guaranteed career prediction.
 
-## 🚀 Future ENhancements
+## 🚀 Future Enhancements
 - Add aptitude test scores
 - Add personality assessment
 - Include academic performance
